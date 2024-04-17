@@ -7,13 +7,14 @@ Date: Feb 2022
 Usage: python3 get_gene_coordinates.py <gene_name> <gtf> <scan_distance> <ATAC-seq Peaks BED file> <FASTA_file>
 
 Description:
-This script was written to facilitate the search of transcription factor binding motifs. For the gene of interest (GOI), the script takes a BED file with already called
-ATAC-seq peaks, finds coordinates for those peaks, and generates FASTA sequences for those coordinates. The user has to provide the script with a 1) gene name (i.e., GAPDH),
-2) a GTF file for the appropriate organism (I recommend Ensembl - for hg38:  http://ftp.ensembl.org/pub/release-105/gtf/homo_sapiens/), 3) number of basepairs that will be
-added upstream and downstream of the beginning of the GOI to create the scanning window, 4) a BED file with already called ATAC-seq peaks, 5) FASTA file for the appropriate organism.
+This script was written to facilitate the search for a transcription factor that controls the expression of the gene of interest (GOI). The script finds the genomic coordinates of GOI,
+creates a scanning window upstream and downstream of the gene, finds open chromatin regions in the scanning window, and generates FASTA sequences for these regions. The user has to provide
+the script with a 1) gene name (i.e., GAPDH), 2) a GTF file for the appropriate organism (I recommend Ensembl - for hg38:  http://ftp.ensembl.org/pub/release-105/gtf/homo_sapiens/),
+3) number of basepairs that will be added upstream and downstream of the beginning of the GOI to create the scanning window, 4) a BED file with already called ATAC-seq peaks,
+5) FASTA file for the appropriate organism.
 
 The script returns a file called "FINAL_FASTA.txt" with a summary of GOI (gene name, chromosome number, strandness, gene beginning coordinate, and scan coordinates)
-and found ATAC-seq peak coordinates and their corresponding FASTA sequences.
+and the open chromatin  coordinates and their corresponding FASTA sequences.
 """
 
 ###############################################################################################################################################################
@@ -75,7 +76,7 @@ scan_coordinate_2 = gene_beginning + scan_distance
 peak_coordinates = ""
 
 peak_file = open(peak_file)
-# go line by line in the ATAC-seq file with already called peaks
+# go line by line in the ATAC-seq file with already-called peaks
 for i in peak_file:
     # consider only the lines that are on the correct chromosome (gene chromosome)
     i = i.strip().split('\t')
