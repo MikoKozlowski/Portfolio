@@ -6,7 +6,8 @@ This repository showcases my Python scripts, demonstrating my ability to:
 3) Visualize data using matplotlib or seaborn
 
 Projects:
-1) Generating and analyzing ATACseq datasets to find a transcription factor responsible for the development of the novel Schwann cell subpopulation. 
+1) Generating and analyzing ATACseq datasets to find a transcription factor responsible for the development of the novel Schwann cell subpopulation. Filter_TFs_based_on_RNA_levels.py
+2) 
 Project 1: [Brief description of project 1] (Link to script) - This project focused on , utilizing .
 Project 2: [Brief description of project 2] (Link to script) - This project explored , employing .
 
