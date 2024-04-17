@@ -17,8 +17,7 @@ Skills
 3) Neuroscience & Genomics Background: Cell biology, genomics, data analysis in neuroscience research
 
 Goals  
-I'm actively seeking opportunities to apply my skills in Python and data analysis to real-world problems. I'm particularly interested in the medical field, where I could address questions relevant to people's health. This could involve tasks like analyzing clinical trial data or developing predictive models for disease risk assessment using machine learning or artificial intelligence.  
-However, my passion for data analysis extends beyond healthcare. I'm also drawn to the world of Business Intelligence (BI) and the power of data to drive informed decision-making across various industries.
+I'm actively seeking opportunities to apply my skills in Python and data analysis to real-world problems. I'm particularly interested in the medical field, where I could address questions relevant to people's health. This could involve tasks like analyzing clinical trial data or developing predictive models for disease risk assessment using machine learning or artificial intelligence. I'm also drawn to the world of Business Intelligence (BI) and the power of data to drive informed decision-making across various industries.
 
 Contact  
 Feel free to connect with me on [LinkedIn](linkedin.com/in/mikołaj-kozłowski-867962192)
