@@ -91,8 +91,7 @@ plt.title('Cell Abundance in Femoral Nerve', size=35)
 # in the figure legend, how only barplot
 h,l = barplot.get_legend_handles_labels()
 plt.legend(h[3:7],l[3:7], loc=2, fontsize = 16)
-# set tight layout
-plt.tight_layout()
+
 
 # save the plot
 #plt.savefig("../IF/PMP2_DTA_Tmx@TueFri_long_term/12wks_tmx_+_12wks_regen/IF_Regen_Quant_PMP2_MBP_cTUJ.tiff",  bbox_inches='tight')
