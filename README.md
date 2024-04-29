@@ -3,7 +3,7 @@ I'm Miko, a neuroscientist with a strong foundation in cell biology and genomics
 I'm passionate about leveraging my research background and Python expertise to pursue a career in data science within the industry.
 
 This repository showcases my Python scripts, demonstrating my ability to:
-1) Clean and manipulate data from various sources (e.g., genomic databases, sequencing experiments)
+1) Manipulate data from various sources (e.g., genomic databases, sequencing experiments)
 2) Perform data analysis using libraries like pandas, NumPy, and scikit-learn
 3) Visualize data using matplotlib or seaborn
 
