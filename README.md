@@ -8,8 +8,9 @@ This repository showcases my Python scripts, demonstrating my ability to:
 3) Visualize data using matplotlib or seaborn
 
 Projects
-1) Generating and analyzing ATACseq datasets to find transcription factors responsible for the development of the novel Schwann cell subpopulation. [ATACseq_peaks_to_FASTA_one_gene.py](https://github.com/MikoKozlowski/Portfolio/blob/main/ATACseq_peaks_to_FASTA_one_gene.py), [Filter_TFs_based_on_RNA_levels.py](https://github.com/MikoKozlowski/Portfolio/blob/main/Filter_TFs_based_on_RNA_levels.py)
-2) Visualization of the data and preparation of the figures for my paper with matplotlib and seaborn. [Example_of_a_figure_ready_barplot.py](https://github.com/MikoKozlowski/Portfolio/blob/main/Example_of_a_figure_ready_barplot)
+1) Developed a machine learning model to classify fetal health state into three categories (normal, suspect, pathological) with 94.6% accuracy. 
+2) Generated and analyzing ATACseq datasets to find transcription factors responsible for the development of the novel Schwann cell subpopulation. [ATACseq_peaks_to_FASTA_one_gene.py](https://github.com/MikoKozlowski/Portfolio/blob/main/ATACseq_peaks_to_FASTA_one_gene.py), [Filter_TFs_based_on_RNA_levels.py](https://github.com/MikoKozlowski/Portfolio/blob/main/Filter_TFs_based_on_RNA_levels.py)
+3) Visualized the data and prepared the figures for my scientific publication with matplotlib and seaborn. [Example_of_a_figure_ready_barplot.py](https://github.com/MikoKozlowski/Portfolio/blob/main/Example_of_a_figure_ready_barplot)
 
 Skills
 1) Programming Languages: Python (proficient), R (competent), bash (competent)
