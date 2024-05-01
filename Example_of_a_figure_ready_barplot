@@ -2,7 +2,7 @@
 Author: Miko Kozlowski
 Date: October 2023
 
-Generate a figure ready bar plot with overlayed swarmplot and statistics
+Generate a publication-ready bar plot with overlayed swarmplot and statistics
 """
 
 # import modules
