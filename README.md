@@ -3,7 +3,7 @@ I'm Miko, a neuroscientist with a strong foundation in data science and genomics
 1) Manipulate data from various sources (e.g., genomic databases, sequencing experiments)
 2) Perform data analysis using libraries like pandas, numpy
 3) Visualize data using matplotlib and seaborn
-4) 
+4) Apply AI models to resolve health problems
 
 Goal  
 I seek opportunities to leverage my Python and data science expertise on real-world problems. I am particularly interested in applying AI and machine-learning techniques to improve life quality. My passion lies in delving into complex datasets and extracting actionable insights that can drive impactful solutions.
@@ -17,7 +17,7 @@ Projects
 Skills
 1) Programming Languages: Python (proficient), R (competent), bash (competent)
 2) Data Science Libraries: pandas, NumPy, scikit-learn, matplotlib/seaborn, pytorch, bedtools, samtools, bedops, pingouin, statannotations
-3) Neuroscience & Genomics Background: Cell biology, genomics, data analysis in neuroscience research
+3) Neuroscience & Genomics Background: peripheral nervous system, Schwann Cells, ATAC-seq, RNA-seq
 
 Contact  
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/mikokozlowski)
