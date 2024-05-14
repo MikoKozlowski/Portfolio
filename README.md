@@ -1,11 +1,12 @@
 Hi there!  
-I'm Miko, a neuroscientist with a strong foundation in cell biology and genomics. This repository showcases my Python scripts, demonstrating my ability to:
+I'm Miko, a neuroscientist with a strong foundation in data science and genomics. This repository showcases my Python scripts, demonstrating my ability to:
 1) Manipulate data from various sources (e.g., genomic databases, sequencing experiments)
-2) Perform data analysis using libraries like pandas, NumPy, and scikit-learn
-3) Visualize data using matplotlib or seaborn
+2) Perform data analysis using libraries like pandas, numpy
+3) Visualize data using matplotlib and seaborn
+4) 
 
 Goal  
-I seek opportunities to leverage my Python and data science expertise on real-world problems. I'm passionate about delving into complex datasets through meticulous data analysis. This allows me to uncover hidden patterns and extract valuable insights, unveiling the mysteries within data. I'm particularly interested in applying AI and machine learning techniques to further enhance this process.
+I seek opportunities to leverage my Python and data science expertise on real-world problems. I am particularly interested in applying AI and machine-learning techniques to improve life quality. My passion lies in delving into complex datasets and extracting actionable insights that can drive impactful solutions.
 
 Projects
 1) Developed a machine learning model to classify fetal health state into three categories (normal, suspect, pathological) with 94.6% accuracy. [fetal_health_state.ipynb](https://github.com/MikoKozlowski/Portfolio/blob/main/fetal_health_state.ipynb)
@@ -15,8 +16,8 @@ Projects
 
 Skills
 1) Programming Languages: Python (proficient), R (competent), bash (competent)
-2) Data Science Libraries: pandas, NumPy, scikit-learn, matplotlib/seaborn, bedtools, samtools, bedops
+2) Data Science Libraries: pandas, NumPy, scikit-learn, matplotlib/seaborn, pytorch, bedtools, samtools, bedops, pingouin, statannotations
 3) Neuroscience & Genomics Background: Cell biology, genomics, data analysis in neuroscience research
 
 Contact  
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/mikołaj-kozłowski-867962192)
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/mikokozlowski)
