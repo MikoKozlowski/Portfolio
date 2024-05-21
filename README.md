@@ -1,4 +1,4 @@
-Hi there!  
+**Hi there!**  
 I'm Miko, a neuroscientist with a strong foundation in data science and genomics. This repository showcases my Python scripts, demonstrating my ability to:
 1) Manipulate data from various sources (e.g., genomic databases, sequencing experiments)
 2) Perform data analysis using libraries like pandas, numpy
