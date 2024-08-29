@@ -15,7 +15,7 @@ I’m a PhD candidate in Developmental, Regenerative, Stem Cell Biology at Washi
 4) Visualized the data and prepared the figures for my scientific publication with matplotlib and seaborn. [Example_of_a_figure_ready_barplot.py](https://github.com/MikoKozlowski/Portfolio/blob/main/Example_of_a_publication_ready_barplot.py), [Example_of_a_publication_ready_barplot.jpg](https://github.com/MikoKozlowski/Portfolio/blob/main/Example_of_a_publication_ready_barplot.jpg)
 
 **Skills**
-1) Programming Languages: Python (proficient), R (competent), bash (competent)
+1) Programming Languages: Python (proficient), R (competent), SQL (competent), bash (competent)
 2) Data Science Libraries: pandas, NumPy, scikit-learn, matplotlib/seaborn, pytorch, bedtools, samtools, bedops, pingouin, statannotations, Git, RStudio, PyCharm, Jupyter 
 3) Neuroscience & Genomics Background: peripheral nervous system, Schwann Cells, ATAC-seq, RNA-seq
 
