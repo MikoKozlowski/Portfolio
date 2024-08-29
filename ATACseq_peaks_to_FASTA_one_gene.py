@@ -14,7 +14,7 @@ the script with a 1) gene name (i.e., GAPDH), 2) a GTF file for the appropriate 
 5) FASTA file for the appropriate organism.
 
 The script returns a file called "FINAL_FASTA.txt" with a summary of GOI (gene name, chromosome number, strandness, gene beginning coordinate, and scan coordinates)
-and the open chromatin  coordinates and their corresponding FASTA sequences.
+and the open chromatin coordinates and their corresponding FASTA sequences.
 """
 
 ###############################################################################################################################################################
