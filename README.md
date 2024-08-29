@@ -20,4 +20,4 @@ I’m a PhD candidate in Developmental, Regenerative, Stem Cell Biology at Washi
 3) Neuroscience & Genomics Background: peripheral nervous system, Schwann Cells, ATAC-seq, RNA-seq
 
 **Contact**  
-Feel free to connect with me via email (mmskozlowski@gmail.com) or [LinkedIn](www.linkedin.com/in/mikokozlowski)
+Feel free to connect with me via email (mmskozlowski@gmail.com) or [[LinkedIn](https://www.linkedin.com/in/mikokozlowski/)]
