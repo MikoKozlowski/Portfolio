@@ -6,7 +6,7 @@ I'm Miko, a neuroscientist with a strong foundation in data science and genomics
 4) Apply AI models to resolve health problems
 
 **Goal**  
-I’m a PhD candidate in Developmental, Regenerative, Stem Cell Biology at Washington University, seeking a challenging position as a Data Researcher. I have strong programming/data wrangling skills utilizing python and R with broad exposure to other data science disciplines including Machine learning and visualization.
+I am a highly-motivated and disciplined scientist with PhD in Developmental, Regenerative, and Stem Cell Biology, seeking a challenging position as a Data Researcher. I possess strong programming/data wrangling skills utilizing Python and R. I have broad exposure to data science disciplines, including machine learning and visualization. I am willing to travel and relocate.
 
 **Projects**
 1) Developed a machine learning model to classify fetal health state into three categories (normal, suspect, pathological) with 94.6% accuracy. [fetal_health_state.ipynb](https://github.com/MikoKozlowski/Portfolio/blob/main/fetal_health_state.ipynb)
