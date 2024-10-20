@@ -16,7 +16,7 @@ Results-oriented Data Researcher with expertise in Python and R. Skilled in extr
 
 **Skills**
 1) Programming Languages: Python (proficient), R (competent), SQL (competent), bash (competent)
-2) Data Science Libraries: pandas, NumPy, scikit-learn, matplotlib/seaborn, pytorch, bedtools, samtools, bedops, pingouin, statannotations, Git, RStudio, PyCharm, Jupyter 
+2) Data Science Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn, pytorch, bedtools, samtools, bedops, pingouin, statannotations, Git, RStudio, PyCharm, Jupyter 
 3) Neuroscience & Genomics Background: peripheral nervous system, Schwann Cells, ATAC-seq, RNA-seq
 
 **Contact**  
