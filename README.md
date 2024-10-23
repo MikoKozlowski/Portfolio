@@ -6,7 +6,7 @@ I'm Miko, a data researcher with a strong foundation in cell biology and genomic
 4) Apply AI models to resolve health problems
 
 **Goal**  
-Results-oriented Data Researcher with expertise in Python and R. Skilled in extracting valuable insights from complex datasets through data wrangling, analysis, and visualization. Proven ability to drive innovation and solve complex problems using data-driven approaches. Seeking a challenging role to contribute to cutting-edge projects and collaborate with interdisciplinary teams.
+Highly skilled Data Researcher specializing in Python and R. Experienced in transforming raw data into meaningful insights through data cleaning, analysis, and visualization. Eager to apply my technical expertise to solve complex problems and contribute to cutting-edge projects.
 
 **Projects**
 1) Developed a machine learning model to classify fetal health state into three categories (normal, suspect, pathological) with 94.6% accuracy. [fetal_health_state.ipynb](https://github.com/MikoKozlowski/Portfolio/blob/main/fetal_health_state.ipynb)
