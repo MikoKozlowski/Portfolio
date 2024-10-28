@@ -14,10 +14,12 @@ Highly skilled Data Researcher specializing in Python and R. Experienced in tran
 3) Generated and analyzed ATACseq datasets to find transcription factors that drive the development of the novel Schwann cell subpopulation. [ATACseq_peaks_to_FASTA_one_gene.py](https://github.com/MikoKozlowski/Portfolio/blob/main/ATACseq_peaks_to_FASTA_one_gene.py), [Filter_TFs_based_on_RNA_levels.py](https://github.com/MikoKozlowski/Portfolio/blob/main/Filter_TFs_based_on_RNA_levels.py)
 4) Visualized the data and prepared the figures for my scientific publication with matplotlib and seaborn. [Example_of_a_figure_ready_barplot.py](https://github.com/MikoKozlowski/Portfolio/blob/main/Example_of_a_publication_ready_barplot.py), [Example_of_a_publication_ready_barplot.jpg](https://github.com/MikoKozlowski/Portfolio/blob/main/Example_of_a_publication_ready_barplot.jpg)
 
-**Skills**
-1) Programming Languages: Python (proficient), R (competent), SQL (competent), bash (competent)
-2) Data Science Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn, pytorch, bedtools, samtools, bedops, pingouin, statannotations, Git, RStudio, PyCharm, Jupyter 
-3) Neuroscience & Genomics Background: peripheral nervous system, Schwann Cells, ATAC-seq, RNA-seq
+**Skills**  
+1) Programming Languages:        Python, R, Bash, SQL  
+2) Data Analysis and Modelling:  Statistics, Machine Learning (scikit-learn), Neural Networks (pytorch)  
+3) Data Visualization:           Matplotlib, Seaborn, ggplot2  
+4) Bioinformatics tools:	        Genomic Data Processing (Bedops, Bedtools, Samtools), QC and Visualization (FastQC, IGV), RNA-Seq and ATAC-seq Analysis (DESeq2, Seurat, Signac), ChIP-Seq Analysis (MACS2), Motif Discovery 
+                              and Analysis (HOMER, MEME Suite)  
 
 **Contact**  
 Feel free to connect with me via email (mmskozlowski@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mikokozlowski/)
